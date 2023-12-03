@@ -1,0 +1,29 @@
+# python program to count the total number of digit 1 appearing in all non-negative integers less than or equal to n.
+
+def count_ones(n):
+    count = 0
+    factor = 1
+
+    while factor <= n:
+        # Calculate contributions from each digit place
+        divider = factor * 10
+        count += (n // divider) * factor + min(max(n % divider - factor + 1, 0), factor)
+        
+        # Move to the next digit place
+        factor *= 10
+
+    print(count)
+
+
+
+""" 
+# call the function as:
+
+n1 = 13
+count_ones(n1)     # Output 6
+n2=15
+count_ones(n2)    # Output 8
+n3=0
+count_ones(n3)    # Output 0
+
+ """
