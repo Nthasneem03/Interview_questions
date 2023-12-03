@@ -1,0 +1,40 @@
+# python proram to find integer array of size n, find all elements that appear more than ⌊ n/3 ⌋ times.
+
+def majority_elements(nums):
+    if not nums:
+        return []
+
+    n = len(nums)
+    result = []
+
+    # Calculate the threshold for an element to be considered a majority
+    threshold = n // 3
+
+    # Count occurrences of each element using a dictionary
+    count_dict = {}
+    for num in nums:
+        count_dict[num] = count_dict.get(num, 0) + 1
+
+    # Check if each element meets the majority criteria
+    for num, count in count_dict.items():
+        if count > threshold:
+            result.append(num)
+
+    print(result)
+
+
+
+
+"""
+# call the function as :
+
+nums1 = [3, 2, 3]
+majority_elements(nums1)  # Output: [3]
+
+nums2 = [1]
+majority_elements(nums2)  # Output: [1]
+
+nums3 = [1, 2]
+majority_elements(nums3)  # Output: [1, 2]
+
+"""
