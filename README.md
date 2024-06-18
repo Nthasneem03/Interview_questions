@@ -4,7 +4,7 @@ Welcome to my coding examples repository! Here, you will find three different co
 
 👋 Hello World! I'm Naeema Thasneem, a student passionate about Electronics and Communication Engineering with a keen interest in software development.
 
-🎓 Currently pursuing a degree in Electronics and Communication Engineering from "YENEPOYA INSTITUTE OF TECHNOLOGY (YIT)"
+🎓 Degree in Electronics and Communication Engineering from "YENEPOYA INSTITUTE OF TECHNOLOGY (YIT)"
 
 💻 I enjoy exploring the intersection of hardware and software, and I'm enthusiastic about developing innovative solutions.
 
@@ -14,7 +14,7 @@ Welcome to my coding examples repository! Here, you will find three different co
 
 📫 Reach me at MY GMAIL: naeemathasneem03@gmail.com
 
-🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/naeema-thasneem-3480261bb
+🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/naeema-thasneem-9133852ab
 
 
 
