@@ -2,33 +2,16 @@
 
 Welcome to my coding examples repository! Here, you will find three different code snippets that demonstrate my coding skills.
 
-👋 Hello World! I'm Naeema Thasneem, a student passionate about Electronics and Communication Engineering with a keen interest in software development.
-
-🎓 Degree in Electronics and Communication Engineering from "YENEPOYA INSTITUTE OF TECHNOLOGY (YIT)"
-
-💻 I enjoy exploring the intersection of hardware and software, and I'm enthusiastic about developing innovative solutions.
-
-🚀 Aspiring software engineer with a focus on Web development, Artificial Intelligence, machine learning, etc.
-
-🌐 Always eager to learn and contribute to exciting projects. Let's connect and collaborate!
-
-📫 Reach me at MY GMAIL: naeemathasneem03@gmail.com
-
-🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/naeema-thasneem-9133852ab
 
 
 
 
 
 
-
--------------------------------------------------------------------------------------------------
 
 
 ********************************************************************************************
 
-
--------------------------------------------------------------------------------------------------
 
 
 
@@ -47,7 +30,7 @@ Questions solved are :
 
 
 
-Easy 1 :
+Easy  :
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 A word is a maximal 
 substring consisting of non-space characters only.
@@ -98,7 +81,7 @@ ________________________________________________________________________________
 
 
 
-Medium 2:
+Medium :
 Given an integer array of size n, find all elements that appear more than ⌊ n/3 ⌋ times.
  
 Example 1:
@@ -138,7 +121,7 @@ ________________________________________________________________________________
 
 
 
-Hard 3:
+Hard :
 
 Given an integer n, count the total number of digit 1 appearing in all non-negative integers less than or equal to n.
 
