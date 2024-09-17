@@ -1,7 +1,6 @@
 # Coding Examples Repository
 
 Welcome to my coding examples repository! Below, you'll find three code snippets that demonstrate my coding skills. Each snippet addresses a different level of difficulty.
-These are Interview Questions which are most commomly asked.
 
 ## Questions
 
